@@ -99,8 +99,8 @@ BITS_ML_Assigment2_Heart_Disease/
 git clone https://github.com/devanshu1010/BITS_ML_Assigment2_Heart_Disease.git
 cd BITS_ML_Assigment2_Heart_Disease
 pip install -r requirements.txt
-python train_models.py   # Train and save models
-streamlit run app.py     # Launch web app
+python train_models.py           # Train and save models
+streamlit run app.py             # Launch web app (or: python -m streamlit run app.py)
 ```
 
 ---
